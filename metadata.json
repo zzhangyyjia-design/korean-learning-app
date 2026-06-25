@@ -1,0 +1,6 @@
+{
+  "name": "韩语学习",
+  "description": "一个面向零基础初学者的韩语系统互动学习平台。包含40音基础发音、分类常用词汇、基础句型拆解、生活场景多语对照对话以及AI辅助韩语语法纠错与发音练习，支持发音播放与计分小游戏训练。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
